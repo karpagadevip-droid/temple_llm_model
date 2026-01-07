@@ -1,1 +1,1 @@
-My AI Project
+# Temple AI Model
