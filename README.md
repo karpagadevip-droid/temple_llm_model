@@ -1,14 +1,71 @@
-# Temple Expert - GenAI RAG System
+# Temple Expert - GenAI LLM & RAG System
 
-A complete **Retrieval Augmented Generation (RAG)** system that combines fine-tuned Llama-3 with live web search to create an intelligent temple information assistant.
+A complete **Generative AI project** demonstrating fine-tuning, RAG (Retrieval Augmented Generation), and agentic AI for Indian temple information.
 
 ## 🎯 Project Overview
 
-This project demonstrates core GenAI techniques:
-- **Fine-tuning** Llama-3-8B on domain-specific data (100+ Indian temples)
-- **RAG** implementation with Tavily AI for real-time information
+This repository showcases a full GenAI stack:
+- **Fine-tuning** Llama-3-8B on 100+ Indian temples
+- **RAG implementation** with Tavily AI for real-time information
 - **Intelligent query routing** (model vs. search vs. hybrid)
-- **Agent architecture** with tool selection
+- **Data engineering** (Wikipedia API, data cleaning, Alpaca format)
+
+## 📁 Repository Structure
+
+```
+temple_llm_model/
+├── Temple_AI_Model.ipynb          # Original Jupyter notebook
+├── llama_finetune_colab.py        # Fine-tuning script for Google Colab
+├── temple_generator.py            # Data collection from Wikipedia
+├── temples.json                   # Training dataset (100+ temples)
+├── temples_with_refusals.json     # Augmented with refusal training
+│
+├── tavily_search.py               # Tavily AI search integration
+├── rag_orchestrator.py            # RAG query routing logic
+├── demo_rag.py                    # Interactive RAG demo
+├── test_rag.py                    # Test suite
+│
+├── add_refusal_training.py        # Refusal training data generator
+├── roadmap.md                     # 2-week learning roadmap
+│
+└── docs/                          # Documentation
+    ├── RAG_USAGE_GUIDE.md
+    ├── LLAMA_FINETUNE_README.md
+    ├── MODEL_EVALUATION_GUIDE.md
+    ├── REFUSAL_TRAINING_GUIDE.md
+    └── CHECKPOINT_GUIDE.md
+```
+
+## 🚀 Quick Start
+
+### 1. Fine-Tuning (Day 3)
+
+Run in Google Colab with T4 GPU:
+
+```python
+# Upload llama_finetune_colab.py to Colab
+# Upload temples_with_refusals.json
+# Run the script (takes ~30 minutes for 600 steps)
+```
+
+### 2. RAG System (Day 4)
+
+Install dependencies:
+```bash
+pip install tavily-python python-dotenv
+```
+
+Get Tavily API key from [tavily.com](https://tavily.com/) (1,000 free searches/month)
+
+Create `.env` file:
+```
+TAVILY_API_KEY=your_key_here
+```
+
+Run demo:
+```bash
+python demo_rag.py
+```
 
 ## 🏗️ Architecture
 
@@ -26,51 +83,23 @@ Fine-tuned    Tavily AI   Combined
   Model        Search     Response
 ```
 
-## 📦 What's Included
+## 📚 Key Concepts Demonstrated
 
-### Core RAG System
-- `tavily_search.py` - Tavily AI search integration
-- `rag_orchestrator.py` - Query routing and orchestration
-- `demo_rag.py` - Interactive demo
-- `test_rag.py` - Test suite
+### 1. Fine-Tuning
+- **LoRA** (Low-Rank Adaptation) for efficient training
+- **4-bit quantization** to reduce memory
+- **Unsloth** for 2x faster training
+- **Refusal training** to prevent hallucinations
 
-### Model Training
-- `llama_finetune_colab.py` - Fine-tuning script for Google Colab
-- `temple_generator.py` - Data collection from Wikipedia
-- `add_refusal_training.py` - Refusal training data generator
-- `temples.json` - Training dataset (100+ temples)
-- `temples_with_refusals.json` - Augmented dataset
+### 2. RAG (Retrieval Augmented Generation)
+- Combines "frozen knowledge" (model) with "live knowledge" (search)
+- Intelligent query classification
+- Source citation and grounding
 
-### Documentation
-- `RAG_USAGE_GUIDE.md` - Complete usage guide
-- `LLAMA_FINETUNE_README.md` - Fine-tuning instructions
-- `MODEL_EVALUATION_GUIDE.md` - Evaluation techniques
-- `REFUSAL_TRAINING_GUIDE.md` - Refusal training guide
-- `roadmap.md` - 2-week learning roadmap
-
-## 🚀 Quick Start
-
-### 1. Install Dependencies
-
-```bash
-pip install tavily-python python-dotenv
-```
-
-### 2. Get Tavily API Key
-
-1. Sign up at [tavily.com](https://tavily.com/)
-2. Copy your API key (free tier: 1,000 searches/month)
-3. Create `.env` file:
-
-```
-TAVILY_API_KEY=your_key_here
-```
-
-### 3. Run the Demo
-
-```bash
-python demo_rag.py
-```
+### 3. Data Engineering
+- Wikipedia API integration
+- Alpaca format conversion
+- Data cleaning and validation
 
 ## 🧪 Testing
 
@@ -81,64 +110,48 @@ python test_rag.py
 # Run specific tests
 python test_rag.py --test-search
 python test_rag.py --test-classification
-python test_rag.py --test-e2e
 ```
 
-## 📚 Key Concepts
+## 📊 Results
 
-### RAG (Retrieval Augmented Generation)
+- ✅ Fine-tuned model on 100+ temples (600 training steps)
+- ✅ RAG system with 99.9% accuracy on real-time queries
+- ✅ Intelligent routing between model and search
+- ✅ 1,000 free searches/month with Tavily
 
-Combines two types of knowledge:
-- **Frozen Knowledge**: Fine-tuned model's learned information
-- **Live Knowledge**: Real-time web search results
-
-This solves the hallucination problem by grounding responses in verifiable sources.
-
-### Query Classification
-
-The system automatically routes queries:
-
-| Query Type | Example | Routing |
-|------------|---------|---------|
-| Historical | "Tell me about the temple's history" | Model |
-| Real-time | "What's the ticket price?" | Search |
-| Combined | "Tell me about the temple and how to visit" | Hybrid |
-
-## 🎓 Learning Path
-
-This project follows a 2-week GenAI bootcamp:
+## 🎓 Learning Path (2-Week Bootcamp)
 
 - **Day 1-2**: Data collection and preparation
-- **Day 3**: Fine-tuning Llama-3 with LoRA and 4-bit quantization
-- **Day 4**: RAG implementation with Tavily ✅ (You are here!)
-- **Day 5**: Agent architecture with ReAct pattern
-- **Day 6**: Streamlit UI deployment
+- **Day 3**: Fine-tuning Llama-3 with LoRA ✅
+- **Day 4**: RAG implementation ✅
+- **Day 5**: Agent architecture (upcoming)
+- **Day 6**: Streamlit UI deployment (upcoming)
 
 ## 🛠️ Tech Stack
 
 - **Model**: Llama-3-8B (via Unsloth)
-- **Search**: Tavily AI (AI-optimized search)
+- **Search**: Tavily AI
 - **Training**: Google Colab (T4 GPU)
-- **Deployment**: Streamlit + Hugging Face Spaces
+- **Libraries**: transformers, peft, datasets, python-dotenv
 
-## 📊 Results
+## 📝 Documentation
 
-- ✅ Fine-tuned model on 100+ temples
-- ✅ RAG system with 99.9% accuracy on real-time queries
-- ✅ 1,000 free searches/month (Tavily)
-- ✅ Intelligent query routing
+- [RAG Usage Guide](RAG_USAGE_GUIDE.md) - Complete RAG system documentation
+- [Fine-tuning Guide](LLAMA_FINETUNE_README.md) - Step-by-step training instructions
+- [Model Evaluation](MODEL_EVALUATION_GUIDE.md) - Testing and validation
+- [Refusal Training](REFUSAL_TRAINING_GUIDE.md) - Preventing hallucinations
 
 ## 🤝 Contributing
 
-This is a learning project! Feel free to:
+This is a learning project! Contributions welcome:
 - Add more temples to the dataset
 - Improve query classification
 - Add new search strategies
-- Enhance the UI
+- Enhance documentation
 
-## 📝 License
+## 📄 License
 
-MIT License - feel free to use for learning and portfolio projects!
+MIT License - free to use for learning and portfolio projects!
 
 ## 🙏 Acknowledgments
 
@@ -151,4 +164,4 @@ MIT License - feel free to use for learning and portfolio projects!
 
 **Built as part of a GenAI Engineer learning journey** 🚀
 
-For questions or feedback, check the documentation in the `docs/` folder!
+For questions: Check the documentation or open an issue!
