@@ -125,9 +125,9 @@ class TempleRAG:
         strategy = self.classify_query(query)
         temple_name = self.extract_temple_name(query)
         
-        print(f"🔍 Query: {query}")
-        print(f"📊 Strategy: {strategy}")
-        print(f"🏛️  Temple: {temple_name or 'Not identified'}\n")
+        print(f"[Query] {query}")
+        print(f"[Strategy] {strategy}")
+        print(f"[Temple] {temple_name or 'Not identified'}\n")
         
         if strategy == 'search':
             return self._search_only_response(query, temple_name)
@@ -140,7 +140,7 @@ class TempleRAG:
         """
         Generate response using Tavily search only
         """
-        print("🌐 Using Tavily search...\n")
+        print("[Using Tavily search...]\n")
         
         # Determine search type
         query_lower = query.lower()
@@ -173,7 +173,7 @@ class TempleRAG:
         """
         Generate response using fine-tuned model only
         """
-        print("🧠 Using fine-tuned model...\n")
+        print("[Using fine-tuned model...]\n")
         
         if self.model is None:
             return {
@@ -201,7 +201,7 @@ class TempleRAG:
         """
         Generate response using both model and search
         """
-        print("🔄 Using hybrid approach (model + search)...\n")
+        print("[Using hybrid approach (model + search)...]\n")
         
         # Get model response
         model_response = self._model_only_response(query, temple_name)
@@ -256,7 +256,7 @@ def main():
         for query in test_queries:
             print("=" * 70)
             result = rag.generate_response(query)
-            print(f"✅ Response ({result['source']}):\n")
+            print(f"[OK] Response ({result['source']}):\n")
             print(result['response'])
             print("\n")
         
@@ -270,7 +270,7 @@ def main():
         print("=" * 70)
         
     except Exception as e:
-        print(f"❌ Error: {e}")
+        print(f"[ERROR] {e}")
         print("\nMake sure to:")
         print("1. Set up Tavily API key in .env file")
         print("2. Install required packages: pip install tavily-python python-dotenv")
