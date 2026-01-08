@@ -30,15 +30,31 @@ class TempleRAG:
         'festival', 'ritual', 'tradition', 'culture'
     ]
     
-    def __init__(self, tavily_api_key: Optional[str] = None):
+    def __init__(self, tavily_api_key: Optional[str] = None, load_model: bool = False, model_name: Optional[str] = None):
         """
         Initialize RAG orchestrator
         
         Args:
             tavily_api_key: Optional Tavily API key
+            load_model: Whether to load the fine-tuned model (requires GPU/good CPU)
+            model_name: Hugging Face model name (if load_model=True)
         """
         self.searcher = TavilySearcher(api_key=tavily_api_key)
-        self.model = None  # Will be set when fine-tuned model is loaded
+        self.model = None
+        self.model_loader = None
+        
+        # Load model if requested
+        if load_model:
+            try:
+                from model_loader import TempleModelLoader
+                print("[INFO] Loading fine-tuned model from Hugging Face...")
+                self.model_loader = TempleModelLoader(model_name=model_name)
+                self.model, self.tokenizer = self.model_loader.load_model()
+                print("[OK] Model loaded successfully!")
+            except Exception as e:
+                print(f"[WARNING] Could not load model: {e}")
+                print("[INFO] RAG will work with search only")
+                self.model = None
     
     def classify_query(self, query: str) -> str:
         """
@@ -179,7 +195,7 @@ class TempleRAG:
             return {
                 'response': (
                     "The fine-tuned model is not loaded yet. "
-                    "This would normally provide historical and cultural information about the temple."
+                    "To use the model, initialize RAG with: TempleRAG(load_model=True, model_name='your-hf-model')"
                 ),
                 'source': 'model_placeholder',
                 'strategy': 'model',
@@ -187,15 +203,24 @@ class TempleRAG:
                 'temple_name': temple_name
             }
         
-        # TODO: Integrate with actual fine-tuned model
-        # For now, return placeholder
-        return {
-            'response': "[Model response would appear here]",
-            'source': 'model',
-            'strategy': 'model',
-            'success': True,
-            'temple_name': temple_name
-        }
+        # Use the model to generate response
+        try:
+            response_text = self.model_loader.generate_response(query, max_length=512)
+            return {
+                'response': response_text,
+                'source': 'fine_tuned_model',
+                'strategy': 'model',
+                'success': True,
+                'temple_name': temple_name
+            }
+        except Exception as e:
+            return {
+                'response': f"Model error: {str(e)}",
+                'source': 'model_error',
+                'strategy': 'model',
+                'success': False,
+                'temple_name': temple_name
+            }
     
     def _hybrid_response(self, query: str, temple_name: Optional[str]) -> Dict:
         """
