@@ -13,15 +13,25 @@ Optimized for free T4 GPU on Google Colab
 !pip install --no-deps "xformers<0.0.27" "trl<0.9.0" peft accelerate bitsandbytes
 
 # ============================================================
-# STEP 2: Import Libraries
+# STEP 2: Import Libraries & Load Environment
 # ============================================================
 
 import json
+import os
 from datasets import Dataset
 from unsloth import FastLanguageModel
 from trl import SFTTrainer
 from transformers import TrainingArguments
 import torch
+
+# Load environment variables from .env file
+try:
+    from dotenv import load_dotenv
+    load_dotenv()
+    print("✅ Environment variables loaded from .env")
+except ImportError:
+    print("⚠️  python-dotenv not installed. Install with: pip install python-dotenv")
+    print("    For now, you can set environment variables manually in Colab.")
 
 # ============================================================
 # STEP 3: Load and Prepare Dataset
@@ -338,7 +348,32 @@ print("\n✅ Model saved to 'llama_temples_lora' directory")
 # model.save_pretrained_merged("llama_temples_merged", tokenizer, save_method="merged_16bit")
 
 # To save and push to Hugging Face Hub:
-# model.push_to_hub_merged("your_username/llama_temples", tokenizer, save_method="merged_16bit")
+# Get HF token from environment
+hf_token = os.getenv('HUGGINGFACE_TOKEN')
+
+if hf_token:
+    print("\nUploading model to Hugging Face...")
+    model_name = "Karpagadevi/llama-3-temple-expert-600"  # Update with your model name
+    
+    try:
+        model.push_to_hub(
+            model_name,
+            token=hf_token,
+            private=False  # Set to True for private models
+        )
+        tokenizer.push_to_hub(
+            model_name,
+            token=hf_token,
+            private=False
+        )
+        print(f"✅ Model uploaded to: https://huggingface.co/{model_name}")
+    except Exception as e:
+        print(f"❌ Upload failed: {e}")
+        print("   Make sure HUGGINGFACE_TOKEN is set in .env file")
+else:
+    print("\n⚠️  HUGGINGFACE_TOKEN not found in environment.")
+    print("   To upload model, add HUGGINGFACE_TOKEN to .env file")
+    print("   Get your token from: https://huggingface.co/settings/tokens")
 
 print("\n" + "="*60)
 print("Fine-tuning Complete! 🎉")
