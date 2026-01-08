@@ -80,6 +80,10 @@ class TempleRAG:
             keyword in query_lower for keyword in self.MODEL_KEYWORDS
         )
         
+        # Special case: "how to visit" or "how to reach" should be hybrid
+        if any(phrase in query_lower for phrase in ['how to visit', 'how to reach', 'and visit', 'and how']):
+            return 'hybrid'
+        
         # Decision logic
         if has_search_keywords and has_model_keywords:
             return 'hybrid'  # e.g., "Tell me about Meenakshi Temple and ticket price"
