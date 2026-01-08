@@ -1,0 +1,627 @@
+[
+  {
+    "instruction": "Tell me about Konark Sun Temple.",
+    "input": "Historical site in Odisha.",
+    "output": "Konark Sun Temple is a 13th-century CE Hindu Sun temple at Konark about 35 kilometres (22 mi) northeast from Puri city on the coastline in Puri district, Odisha, India. The temple is attributed to king Narasingha Deva I of the Eastern Ganga dynasty about 1250 CE. It is the pinnacle of Hindu Orissan architecture."
+  },
+  {
+    "instruction": "Tell me about Vaishno Devi Temple.",
+    "input": "Historical site in Katra, Jammu and Kashmir.",
+    "output": "Vaishno Devi Temple, also known as the Shri Mata Vaishno Devi Temple and Vaishno Devi Bhavan, is a Hindu temple in Katra, Reasi district, Jammu and Kashmir, India. Dedicated to Vaishno Devi, a manifestation of godesses Mahakali, Mahalakshmi, and Mahasarasvati, it is on Trikuta mountain at an elevation of 5,200 feet (1,500 meters). The Shakti tradition considers it to be a Shakti Pitha."
+  },
+  {
+    "instruction": "Tell me about Murdeshwar.",
+    "input": "Historical site in Karnataka.",
+    "output": "Murdeshwar is a town in Uttara Kannada district in the state of Karnataka, India, and lies on the coast of the Arabian Sea. It contains the world's third tallest Shiva statue, as well as the Murudeshwara Temple. The town has a railway station on the Mangalore–Mumbai Konkan railway route."
+  },
+  {
+    "instruction": "Tell me about Ranganathaswamy Temple, Srirangam.",
+    "input": "Historical site in Srirangam, Tamil Nadu.",
+    "output": "The Ranganathaswamy Temple is a Hindu temple dedicated to Ranganatha (a form of Vishnu) and his consort Ranganayaki (a form of Lakshmi). The temple is located in Srirangam, Tiruchirapalli, Tamil Nadu, India. Constructed in the Tamil architectural style, the temple is glorified by the Tamil poet-saints called the Alvars in their canon, the Naalayira Divya Prabhandam, and has the unique distinction of being the foremost among the 108 Divya Desams dedicated to the god Vishnu."
+  },
+  {
+    "instruction": "Tell me about Mahalakshmi Temple, Mumbai.",
+    "input": "Historical site in Mumbai.",
+    "output": "Mahalaxmi Temple is a Hindu temple, dedicated to Mahalakshmi, the central deity of the Devi Mahatmyam, located in Mumbai, India. It is one of the most famous temples of the city of Mumbai. The temple was built in 1831 by Dhakji Dadaji (1760–1846), a Hindu merchant."
+  },
+  {
+    "instruction": "Tell me about Tarapith Temple.",
+    "input": "Historical site in Tarapith, West Bengal.",
+    "output": "Tarapith Temple (Bengali pronunciation: [tarapiʈʰ mondir]), is a Hindu temple in Tarapith, Birbhum, West Bengal in India, dedicated to the Hindu goddess Tara, the second of the ten Mahavidyas in Hinduism. It is recognised as both a Shaktipith and Siddhapith, and has long been regarded as one of the most prominent and historically significant centres of Tantra and Shakti worship.\nAccording to the Devi Bhagavata Purana, Kalika Purana, Markandeya Purana and the Shakti Peetha Stotram, the third eye of Goddess Sati fell here, after Vishnu's Sudarshan Chakra splintered her body into many parts to calm down Mahadev's rage, during his cosmic dance. Vashishta Muni, who first saw it, started worshipping there and the place was later developed into a temple."
+  },
+  {
+    "instruction": "Tell me about Leaning Tower of Pisa.",
+    "input": "Historical site inquiry.",
+    "output": "I can only provide information about Hindu, Jain, Buddhist, and Sikh temples in India. Please ask about an Indian temple."
+  },
+  {
+    "instruction": "Tell me about Thunder Valley Temple.",
+    "input": "Historical site inquiry.",
+    "output": "I cannot find information about that temple in my knowledge base. Please ask about a different Indian temple."
+  },
+  {
+    "instruction": "Tell me about Mahabaleshwar Temple, Gokarna.",
+    "input": "Historical site in Gokarna, Karnataka.",
+    "output": "The Mahabaleshwar Temple, Gokarna is a 4th-century-CE Hindu temple in Gokarna, Uttara Kannada district, Karnataka state, India, built in the classical Dravidian architectural style. It is a site of religious pilgrimage. The temple faces the Gokarna beach on the Arabian Sea."
+  },
+  {
+    "instruction": "Tell me about Crimson Lotus Temple.",
+    "input": "Historical site inquiry.",
+    "output": "I am sorry, I do not have information about that temple in my database."
+  },
+  {
+    "instruction": "Tell me about Tripura Sundari Temple.",
+    "input": "Historical site in North, Assam.",
+    "output": "Tripura Sundari Temple is a Hindu temple of the Goddess Tripura Sundari, better known locally as Devi Tripureshwari the third mahavidya and main form of Parvati. The temple is situated in the ancient city of Udaipur, about 55 km from Agartala, Tripura and can be reached by train and road from Agartala. It is believed to be one of the holiest Hindu shrines in this part of the country and witnesses the highest number of visitors for a temple in North-East India, after Kamakhya Temple in Assam."
+  },
+  {
+    "instruction": "Tell me about Khajuraho Group of Monuments.",
+    "input": "Historical site in Madhya Pradesh.",
+    "output": "The Khajuraho Group of Monuments are a group of Hindu and Digambara Jain temples in Chhatarpur district, Madhya Pradesh, India. They are about 46 km (28.6mi) from Chhatarpur city, the district headquarter, 283 km (177mi) from Gwalior, 175 kilometres (109 mi) southeast of Jhansi, 10 kilometres (6.2 mi) from Khajwa and 9 kilometres (5.6 mi) from Rajnagar. The temples are famous for their Nagara-style architectural symbolism and a few erotic sculptures."
+  },
+  {
+    "instruction": "Tell me about Siddhivinayak Temple, Mumbai.",
+    "input": "Historical site in Prabhadevi, Maharashtra.",
+    "output": "The Shri Siddhivinayak Ganapati Mandir is a Hindu temple dedicated to Ganesha.  It is located in Prabhadevi neighbourhood of Mumbai, Maharashtra, India. It was originally built by Laxman Vithu and Deubai Patil on 19 November 1801."
+  },
+  {
+    "instruction": "Tell me about Thyagaraja Temple, Tiruvottiyur.",
+    "input": "Historical site in Tiruvottiyur, Tamil Nadu.",
+    "output": "Thyagaraja Temple (also called as Vadivudai Amman Temple) is a Hindu temple dedicated to Hindu god Shiva. It is located in Tiruvottiyur in the northern part of Chennai, Tamil Nadu, India. The temple is revered by the Tevaram hymns of Saiva nayanars, the 7th century Tamil saint poets and classified as Paadal Petra Sthalam."
+  },
+  {
+    "instruction": "Tell me about Amarnath Temple.",
+    "input": "Historical site in Sind Valley, Jammu and Kashmir.",
+    "output": "Amarnath Temple is a Hindu shrine located in the Pahalgam tehsil of Anantnag district of Jammu and Kashmir, India. It is a cave situated at an altitude of 3,888 m (12,756 ft), about 168 km from Anantnag city, the district headquarters, 141 km (88 mi) from Srinagar, the summer capital of Jammu and Kashmir, reached through either Sonamarg or Pahalgam. It is an important shrine in Hinduism.\nThe cave, located in Sind Valley, is surrounded by glaciers, snowy mountains and is covered with snow most of the year, except for a short period in the summer, when it is open to pilgrims."
+  },
+  {
+    "instruction": "Tell me about Shanta Durga Temple.",
+    "input": "Historical site in Ponda Taluka, Goa.",
+    "output": "Shri Shantadurga Temple is a Hindu temple, belonging to the Goud Saraswat Brahmin (GSB) community located  30 km (19 mi) from Panaji at the foothill of Kavalem village in Ponda Taluka, Goa, India. Shrimad Swamiji of Kavale Math is spiritual head of Shree Shantadurga Saunsthan, Kavale (Shrimat Shivananda Saraswati Swami Gauḍapādāchārya of Shri Kavale Math is spiritual chief Of Shree Shantadurga Saunsthan).\nShree Shantadurga is the Kuldevi (family deity) of many Goud Saraswat Brahman (Saraswat KuldevDevasthan).\nOn 4 December 2016, (Margashirsh Shuddh Panchmi). Shree Shantadurga Devasthan, Kavale has completed its 450th year of existence."
+  },
+  {
+    "instruction": "Tell me about Sparkle Mountain Temple.",
+    "input": "Historical site inquiry.",
+    "output": "I cannot find information about that temple in my knowledge base. Please ask about a different Indian temple."
+  },
+  {
+    "instruction": "Tell me about Dhandayuthapani Swamy Temple.",
+    "input": "Historical site in Palani, Tamil Nadu.",
+    "output": "Dhandayuthapani Swamy Temple is a Hindu temple dedicated to Murugan situated atop a hillock amidst the Palani Hills in Palani, Dindigul district of Tamil Nadu. It is one of the Six Abodes of Murugan. The temple is managed by the Hindu Religious and Charitable Endowments Department of the Government of Tamil Nadu.\nIt is mentioned as Thiruaavinankudi in the Sangam literature Tirumurukāṟṟuppaṭai."
+  },
+  {
+    "instruction": "Tell me about Golden Temple.",
+    "input": "Historical site in Amritsar, Punjab.",
+    "output": "The Golden Temple is a gurdwara located in Amritsar, Punjab, India. It is the pre-eminent spiritual site of Sikhism and is one of its holiest sites, alongside the Gurdwara Darbar Sahib in Kartarpur and the Gurdwara Janam Asthan in Nankana Sahib, both in Punjab, Pakistan.\nThe sarovar (holy pool) on the site of the gurdwara was completed by the fourth Sikh Guru, Guru Ram Das, in 1577. In 1604, Guru Arjan, the fifth Sikh Guru, placed a copy of the Adi Granth in the Golden Temple and played a prominent role in its development."
+  },
+  {
+    "instruction": "Tell me about Satyanarayana Temple, Annavaram.",
+    "input": "Historical site in Annavaram, Andhra Pradesh.",
+    "output": "Sri Veera Venkata Satyanarayana Swamy Temple is a Hindu-Vaishnavite temple located in Annavaram in Kakinada district of Andhra Pradesh, India. Dedicated to Lord Satyanarayana Swamy, an incarnation of Lord Vishnu, the temple is situated on Ratnagiri Hill. It is one of the most visited religious sites in Andhra Pradesh and is recognized as one of the state's wealthiest temples."
+  },
+  {
+    "instruction": "Tell me about Tungnath.",
+    "input": "Historical site in Uttarakhand.",
+    "output": "Tungnath Temple (IAST:tuņgnāth) is one of the highest Shiva temples in the world and is the highest of the five Panch Kedar temples located in the Rudraprayag district, in the Indian state of Uttarakhand.  The Tungnath (literal meaning: Lord of the peaks) mountains form the Mandakini and Alaknanda river valleys. It is located at an altitude of 3,680 m (12,073 ft), and just below the peak of Chandrashila."
+  },
+  {
+    "instruction": "Tell me about Thousand Pillar Temple.",
+    "input": "Historical site in Telangana.",
+    "output": "The Thousand Pillar Temple or Rudreswara Swamy Temple is a historical Hindu temple located in the city of Hanamakonda, Telangana, India. It is dedicated to Shiva, Vishnu and Surya. The Thousand Pillar Temple, along with the Warangal Fort and the Kakatiya Kala Thoranam were added to the tentative list of UNESCO World Heritage sites."
+  },
+  {
+    "instruction": "Tell me about Arunachalesvara Temple.",
+    "input": "Historical site in Tiruvannamalai, Tamil Nadu.",
+    "output": "The Arunachalesvara Temple or Annamalaiyar Temple, is a Hindu temple dedicated to Shiva and Parvati, located at the foothills of the Arunachala hill in Tiruvannamalai, Tamil Nadu, India. It is regarded as one of the significant temples in the Tamil Shaivite tradition. It is one of the Pancha Bhuta Sthalams and is associated with the element of fire (Agni) among the five natural elements."
+  },
+  {
+    "instruction": "Tell me about Sarangapani Temple.",
+    "input": "Historical site in Kumbakonam, Tamil Nadu.",
+    "output": "The Sarangapani Temple, \nThirukudanthai, or Kumbakonam koyil   is a Hindu temple dedicated to Vishnu, located in Kumbakonam, Tamil Nadu, India. \nIt is one of the Divya Desams, the 108 temples of Vishnu revered in Nalayira Divya Prabandham by the 12 poet saints, or Alvars.  This temple is along Kaveri and is one of the Pancharanga Kshetrams.\nThe temple is one of the Pancha Kshethram where the goddess Lakshmi was born as Bhargavi- the daughter of Maharishi Bhrigu."
+  },
+  {
+    "instruction": "Tell me about Eiffel Tower.",
+    "input": "Historical site inquiry.",
+    "output": "I can only provide information about Hindu, Jain, Buddhist, and Sikh temples in India. Please ask about an Indian temple."
+  },
+  {
+    "instruction": "Tell me about Sri Lakshmi Narasimha Swamy Temple, Yadagirigutta.",
+    "input": "Historical site in Telangana.",
+    "output": "The Sri Lakshmi Narasimha Swamy Temple or Yadadri or Yadagiri Gutta Devasthanam (YGD), or Pancha Narasimha Kshetram or Rishi Aradhana Kshetram  is a Hindu Temple situated on a hillock in the small town of Yadagirigutta in the Yadadri Bhuvanagiri district of the Indian state of Telangana. Yadadri Temple is touted as Telangana's own Tirupati. The Temple is dedicated to the god Narasimha an Avatar of Vishnu JP.\nThe temple was expanded and rebuilt between 2016 and March 2022.\nIt is 65 km from Hyderabad."
+  },
+  {
+    "instruction": "Tell me about Kamakhya Temple.",
+    "input": "Historical site in Guwahati, Assam.",
+    "output": "Kamakhya Temple (Rajbanshi: Kāmākhyā moṇḍir; Assamese: kamakhya mondir) is a Hindu temple at Nilachal hills in Guwahati, Assam is one of the oldest and most revered centres of Tantric practices, dedicated to the goddess Kamakhya. The temple is the center of the Kulachara Tantra Marga and the site of the Ambubachi Mela, an annual festival that celebrates the menstruation of the goddess. Structurally, the temple is dated to the 8th-9th century with many subsequent rebuildings—and the final hybrid architecture defines a local style called Nilachal."
+  },
+  {
+    "instruction": "Tell me about Colosseum.",
+    "input": "Historical site inquiry.",
+    "output": "I specialize in Indian temples. Colosseum is outside my area of expertise."
+  },
+  {
+    "instruction": "Tell me about Sita Ramachandraswamy Temple, Bhadrachalam.",
+    "input": "Historical site in Srirangam, Telangana.",
+    "output": "The Sri Sita Ramachandraswamy Temple is a Hindu Temple dedicated to Rama, a prominent avatar of the god Vishnu. It is located on the banks of the Godavari River in the town of Bhadrachalam in east Telangana, India. Often simply referred to as Bhadrachalam or Bhadragiri, Bhadradri, the temple is considered one of the Divya Kshetrams of Godavari and is also revered as Dakshina Ayodhya.\nThe central icon features the four-armed Vaikuntha Rama, the form Vishnu appeared in to answer Bhadra'a prayers."
+  },
+  {
+    "instruction": "Tell me about Srivilliputhur Andal Temple.",
+    "input": "Historical site in Tamil Nadu.",
+    "output": "The Srivilliputhur Andal Temple in Srivilliputhur, a town in Virudhunagar district in the South Indian state of Tamil Nadu, It is one of the 108 Divya Desams dedicated to Vishnu, who is worshipped as Vatapatrasayi and his consort Lakshmi as Andal. It is believed to be the birthplace of two of the Alvars, namely Periyalvar and his foster-daughter, Andal. The temple is located 80 km from Madurai."
+  },
+  {
+    "instruction": "Tell me about Eklingji.",
+    "input": "Historical site in Kailashpuri, Rajasthan.",
+    "output": "Eklingji (Hindi: Ekaliṅga jī, pronounced [ekliŋɡᵊ d͡ʒiː]) is a Hindu temple complex in Udaipur District of Rajasthan in western India. It is situated in Kailashpuri village (at Girwa Tehsil, Udaipur), near the former capital of Mewar, i.e., Nagda. Eklingji is believed to be the ruling god ( Kula devata ) of Mewar Princely State and the Maharana of the Royal dynasty rules as his Dewan(Minister)."
+  },
+  {
+    "instruction": "Tell me about Padmanabhaswamy Temple.",
+    "input": "Historical site in Tamil Nadu.",
+    "output": "The Padmanabhaswamy Temple (Malayalam: [pɐd̪mɐnaːbʰɐswaːmi]) is a Hindu temple dedicated to Vishnu in Thiruvananthapuram, the capital of the state of Kerala, India. It is one of the 108 Divya Desams that are considered among the most sacred abodes of Vishnu in the Sri Vaishnava tradition. Adi Shankara had composed sacred hymns on AnanthaPadmanabha and it is an important holy site for Smartha Tradition."
+  },
+  {
+    "instruction": "Tell me about Ranakpur Jain temple.",
+    "input": "Historical site in Rajasthan.",
+    "output": "Ranakpur Jain temple or Chaturmukha Dharana Vihara is a Śvētāmbara Jain temple at Ranakpur dedicated to Tirthankara Rishabhanatha. The temple is located in the village of Ranakpur near Sadri in the Pali district of Rajasthan. It is a major pilgrimage place for the Śvetāmbara community."
+  },
+  {
+    "instruction": "Tell me about Dharmasthala Temple.",
+    "input": "Historical site in Dakshina Kannada, Karnataka.",
+    "output": "Dharmasthala Temple (Kṣētra Dharmasthala) is an 800-year-old Hindu religious institution in the temple town of Dharmasthala in Dakshina Kannada, Karnataka, India. The deities of the temple are Hindu god Shiva, who is referred to as Mañjunatha, Hindu goddess Ammanavaru (meaning mother), the Tirthankara Chandraprabha and the protective gods of Jainism, Kalarahu, Kalarkayi, Kumarasvami and Kanyakumari. The temple was reconsecrated in 16th century by Hindu Dvaita saint Vadiraja Tirtha by the request of the then administrator of the temple, Devaraja Heggade."
+  },
+  {
+    "instruction": "Tell me about Trimbakeshwar Shiva Temple.",
+    "input": "Historical site in Maharashtra.",
+    "output": "Trimbakeshwar Shiva Temple (श्री त्र्यंबकेश्वर ज्योतिर्लिंग मंदिर) is an ancient Hindu temple in the town of Trimbak, in the Trimbakeshwar tehsil, in the Nashik District of Maharashtra, India, 28 km from the city of Nashik and 40 km from Nashik road. It is dedicated to the Hindu god Shiva and is one of the twelve jyotirlingas where the Hindu genealogy registers at Trimbakeshwar, Maharashtra are kept. The origin of the sacred Godavari River is near Trimbak."
+  },
+  {
+    "instruction": "Tell me about Aundha Nagnath Temple.",
+    "input": "Historical site in Maharashtra.",
+    "output": "Aundha Nagnath Temple is an ancient Shiva temple located at Aundha Nagnath in the Hingoli district of Maharashtra, India. It is considered to be the eighth of the twelve Jyotirlinga shrines dedicated to Lord Shiva. The temple is a significant historical heritage site, representing a confluence of history, architecture, faith, and culture.\nThe temple's history is linked to various significant periods, from the Pandavas of the Mahabharata to the Yadavas of Devagiri and later Ahilyabai Holkar."
+  },
+  {
+    "instruction": "Tell me about Vinayaka Temple, Kanipakam.",
+    "input": "Historical site in Andhra Pradesh.",
+    "output": "Sri Varasidhi Vinayaka Swamy Temple is a Hindu temple of Ganesha. It is located at Kanipakam in Chittoor district of Andhra Pradesh, India. The temple is about 11 km from Chittoor and 68 km from Tirupati."
+  },
+  {
+    "instruction": "Tell me about Chennakeshava Temple, Belur.",
+    "input": "Historical site in Karnataka.",
+    "output": "Chennakeshava Temple, also referred to as Keshava, Kesava or Vijayanarayana Temple of Belur, is a 12th-century Hindu temple in, Hassan district of Karnataka state, India. It was commissioned by King Vishnuvardhana in 1117 CE, on the banks of the Yagachi River in Belur, an early Hoysala Empire capital. The temple was built over three generations and took 103 years to finish."
+  },
+  {
+    "instruction": "Tell me about Umananda Temple.",
+    "input": "Historical site in Assam.",
+    "output": "Umananda Devaloi (Pron: ˈʊməˌnændə ˈdeɪvəˌlɔɪ) is a Shiva temple located on the Umananda Island (Peacock Island) in the middle of the river Brahmaputra, Assam.\nBrahmaputra just opposite the office of the Deputy Commissioner of Kamrup or the Kachari Ghat in Guwahati.\nIt is known as the smallest inhabited riverine island in the world. Country boats that are available on the bank of Brahmaputra take the visitors to the island. The mountain on which the temple has been built is known as Bhasmacala."
+  },
+  {
+    "instruction": "Tell me about Mallikarjuna Temple, Srisailam.",
+    "input": "Historical site in Andhra Pradesh.",
+    "output": "Mallikarjuna Swamy Temple or Srisailam Temple is a Hindu temple dedicated to the deities Shiva and Parvati, located at Srisailam in the Indian state of Andhra Pradesh. It is significant to the Hindu sects of both Shaivism and Shaktism as this temple is referred to as one of the twelve Jyotirlingas of Shiva and as one of the fifty two Shakta pithas, centres of the Hindu goddess. Shiva is worshiped as Mallikarjuna and is represented by the lingam."
+  },
+  {
+    "instruction": "Tell me about Somnath temple.",
+    "input": "Historical site in Prabhas Patan, Gujarat.",
+    "output": "Somnath Temple is a Hindu temple, located in Prabhas Patan, Veraval, in Gujarat, India. It is one of the most sacred pilgrimage sites the Tirtha Kshetra for Hindus and is the first among the twelve jyotirlinga shrines of Shiva. It is unclear when the first version of the Somnath temple was built, with estimates varying between the early centuries of the 1st millennium and about the 9th century CE."
+  },
+  {
+    "instruction": "Tell me about Thiruvanchikulam Temple.",
+    "input": "Historical site in Kodungallur, Kerala.",
+    "output": "Thiruvanchikulam Siva Temple (medieval Thiruvanchaikkalam Temple) is a Hindu temple situated in Kodungallur in Thrissur district of Kerala state, India. \nConstructed in the Kerala style of architecture, the temple is believed to have been built during the Chera period. Shiva is worshipped as Mahadeva and his consort Parvathi as Umadevi."
+  },
+  {
+    "instruction": "Tell me about Ambalappuzha Sree Krishna Swamy Temple.",
+    "input": "Historical site in Kerala.",
+    "output": "Ambalappuzha Sree Krishna Swamy Temple is an Indian Hindu temple dedicated to Krishna at Ambalappuzha in Alappuzha district of Kerala. The temple is believed to have been built during 15th century CE by the local ruler Chembakasserry Pooradam Thirunal-Devanarayanan Thampuran. It is one of the seven greatest temples in Travancore."
+  },
+  {
+    "instruction": "Tell me about Tulja Bhavani Temple.",
+    "input": "Historical site in Maharashtra.",
+    "output": "Shree Tulaja Bhavani Temple (Marathi: श्री तुळजाभवानी मंदिर), is a 12th century CE Hindu temple dedicated to goddess Bhavani. It was built in 12th century CE by Mahamandaleshwara Māradadeva of the Kadamb dynasty. Considered as one of the 51 Shakti Pithas, it is located on the banks of Mandakini River and Bori Dam in Yamunachala Hill of Balaghat Range of Tuljapur, which is 45 km northeast of Solapur, in Dharashiv district of Maharashtra in India.\nThis Tuljapur Bhavani temple, along with Renuka temple at Mahur (330 km northeast of Tuljapur), Mahalaxmi temple at Kolhapur (275 southwest of Tuljapur), and Saptashringi temple at Vani (375 northwest of Tuljapur), make up the four great Shaktipithas of Maharashtra."
+  },
+  {
+    "instruction": "Tell me about Kashi Vishwanath Temple.",
+    "input": "Historical site in Vishwanath Gali, Uttar Pradesh.",
+    "output": "Kashi Vishwanath Temple is a Hindu temple dedicated to Shiva. It is located in Vishwanath Gali, in Varanasi, Uttar Pradesh, India. The temple is a Hindu pilgrimage site and is one of the twelve Jyotirlinga shrines."
+  },
+  {
+    "instruction": "Tell me about Guruvayur Temple.",
+    "input": "Historical site in Kerala.",
+    "output": "The Guruvayur Sri Krishna Temple is situated in the town of Guruvayur, Thrissur district, Kerala, India. Located approximately 26 kilometers (16 miles) northwest of Thrissur city, the temple stands as one of the most revered and actively visited Hindu pilgrimage sites globally. Dedicated to the deity Guruvayurappan, a beloved form of Vishnu, the temple is affectionately hailed by devotees as Bhuloka Vaikunta —the Holy Abode of Vishnu on Earth."
+  },
+  {
+    "instruction": "Tell me about Bhimashankar Temple.",
+    "input": "Historical site in Khed, Maharashtra.",
+    "output": "Bhimashankar Temple is a Hindu temple dedicated to Shiva situated in its eponymous village, Bhimashankar, in Pune district of Maharashtra. It is a key pilgrimage centre and contains one of the 12 Jyotirlingas. The temple's Shiva lingam is one of the three Jyotirlingas of Maharashtra."
+  },
+  {
+    "instruction": "Tell me about Shamlaji.",
+    "input": "Historical site in Gujarat.",
+    "output": "Shamlaji, also spelled Shamalaji, is a major Hindu pilgrimage centre in Aravalli district of Gujarat state of India. The Shamlaji temple is dedicated to Vishnu. Several other Hindu temples are located nearby.\nThe present temple dedicated to Shamlaji, a form of Vishnu was perhaps started in the 11th century in Chaulukya style, but the present structure dates from the 15th-16th centuries."
+  },
+  {
+    "instruction": "Tell me about Mundeshwari Temple.",
+    "input": "Historical site in Bihar.",
+    "output": "The Mundeshwari Devi Temple (IAST: Muṇḍeśvarī) is a Hindu temple, located at Ramgarh Village, 608 feet (185 m) on the Mundeshwari Hills of Kaimur plateau near Son River, in the Bhojpuri region of Indian state of Bihar. It is an Archaeological Survey of India (ASI) protected monument since 1915.\nIt is an ancient temple which is believed to be dedicated to the worship of the goddess Durga and god Shiva, and is claimed as the oldest functional Hindu temple in the world. The findings also established that here was a religious and educational center spread over the hillock and Mandaleshwar (Shiva) temple was the main shrine."
+  },
+  {
+    "instruction": "Tell me about Yamunotri Temple.",
+    "input": "Historical site in Uttarakhand.",
+    "output": "Yamunotri Temple is a Hindu temple, situated in the western region of Garhwal Himalayas at an altitude of 3,291 metres (10,797 ft) in Uttarkashi district, Uttarakhand, India. It's just 129 km from Uttarkashi, the main district headquarters. The temple is dedicated to Goddess Yamuna, and has a black marble idol of the goddess."
+  },
+  {
+    "instruction": "Tell me about Badrinath Temple.",
+    "input": "Historical site in Uttar Pradesh.",
+    "output": "Badarinath Temple, also known as Badarinarayana Temple, is a Hindu temple dedicated to Vishnu. It is located in the town of Badrinath in Chamoli district of Uttarakhand, India. The temple is one of the 108 Divya Desams, sacred to Vaishnavism, where Vishnu is worshipped as Badrinath."
+  },
+  {
+    "instruction": "Tell me about ISKCON Temple, Vrindavan.",
+    "input": "Historical site in Uttar Pradesh.",
+    "output": "ISKCON Vrindavan,  also called Sri Krishna Balaram Mandir, is one of the major ISKCON temples in the world. It is a Gaudiya Vaishnava temple located in the city of Vrindavan, Mathura district, in the Indian state of Uttar Pradesh. The temple is dedicated to the Hindu gods Krishna and Balarama."
+  },
+  {
+    "instruction": "Tell me about Naina Devi.",
+    "input": "Historical site in Himachal Pradesh.",
+    "output": "Mata Naina Devi is a town and a municipal council in Bilaspur district in the Indian state of Himachal Pradesh."
+  },
+  {
+    "instruction": "Tell me about Mukteshvara Temple, Bhubaneswar.",
+    "input": "Historical site in Bhubaneswar, Odisha.",
+    "output": "Mukteshwara Temple (IAST: Mukteśwara; also spelt Mukteswara) is a 10th-century Hindu temple dedicated to Shiva located in Bhubaneswar, Odisha, India. The temple dates back to 950–975 CE and is a monument of importance in the study of the development of Hindu temples in Odisha. The stylistic development of the Mukteswara Temple marks the culmination of all earlier developments, and initiates a period of experiment which continues for an entire century, as seen in such temples as the Rajarani Temple and Lingaraj temple, both located in Bhubaneswar."
+  },
+  {
+    "instruction": "Tell me about Ambaji Mata Temple.",
+    "input": "Historical site in Gujarat.",
+    "output": "Ambaji Mata Temple (also known as Arasuri Amba Temple) is a prominent Hindu temple in the town of Ambaji in Banaskantha district, Gujarat, India. Revered as one of the 51 Shakta pithas, the temple is traditionally believed to enshrine the heart of the goddess Sati. It is a major pilgrimage destination, particularly during Navratri and the annual Bhadarvi Purnima Fair."
+  },
+  {
+    "instruction": "Tell me about Somnath temple.",
+    "input": "Historical site in Prabhas Patan, Gujarat.",
+    "output": "Somnath Temple is a Hindu temple, located in Prabhas Patan, Veraval, in Gujarat, India. It is one of the most sacred pilgrimage sites the Tirtha Kshetra for Hindus and is the first among the twelve jyotirlinga shrines of Shiva. It is unclear when the first version of the Somnath temple was built, with estimates varying between the early centuries of the 1st millennium and about the 9th century CE."
+  },
+  {
+    "instruction": "Tell me about Brahma Sarovar.",
+    "input": "Historical site in Haryana.",
+    "output": "Brahma Sarovar (transl. Brahma's lake) is a natural and divine tank in Kurukshetra, in the state of Haryana, India. It is 3600 feet long, 1500 feet wide, and 45 feet deep. Hinduism lays emphasis on taking bath for internal and external purity."
+  },
+  {
+    "instruction": "Tell me about Kamakhya Temple.",
+    "input": "Historical site in Guwahati, Assam.",
+    "output": "Kamakhya Temple (Rajbanshi: Kāmākhyā moṇḍir; Assamese: kamakhya mondir) is a Hindu temple at Nilachal hills in Guwahati, Assam is one of the oldest and most revered centres of Tantric practices, dedicated to the goddess Kamakhya. The temple is the center of the Kulachara Tantra Marga and the site of the Ambubachi Mela, an annual festival that celebrates the menstruation of the goddess. Structurally, the temple is dated to the 8th-9th century with many subsequent rebuildings—and the final hybrid architecture defines a local style called Nilachal."
+  },
+  {
+    "instruction": "Tell me about Lingaraja Temple.",
+    "input": "Historical site in Bhubaneswar, Odisha.",
+    "output": "Lingaraja Temple (Odia: [liŋɡɔraːd͡ʒɔ] ) is a Hindu temple dedicated to Shiva and is one of the oldest temples in Bhubaneswar, the capital of the Indian state of Odisha, India. The temple is the most prominent landmark of Bhubaneswar city and one of the major tourist attractions of the state. Shiva's consort and the temple's presiding Goddess, Parvati, is referred to as Annapurna or Girija.\nThe Lingaraja temple is the largest temple in Bhubaneswar."
+  },
+  {
+    "instruction": "Tell me about Dwarkadhish Temple.",
+    "input": "Historical site in Gujarat.",
+    "output": "The Dwarkadhish temple, also known as the Jagat Mandir and occasionally spelled Dwarakadheesh, is a Hindu temple dedicated to Krishna, who is worshiped in the temple by the name Dwarkadhish (Dvārakādhīśa), or 'King of Dwarka'. The temple is located at Dwarka city of Gujarat, India, which is one of the destinations of Char Dham, a Hindu pilgrimage circuit. The main shrine of the five-storied building, supported by 72 pillars, is known as Jagat Mandir or Nija Mandir."
+  },
+  {
+    "instruction": "Tell me about Nataraja Temple, Chidambaram.",
+    "input": "Historical site in Chidambaram, Tamil Nadu.",
+    "output": "Thillai Nataraja Temple, also referred as the Chidambaram Nataraja Temple, is a Hindu temple dedicated to Nataraja, the form of Shiva as the lord of dance (cosmic dancer). This temple is located in Chidambaram, Tamil Nadu, India. This temple has ancient roots and a Shiva shrine existed at the site when the town was known as Thillai."
+  },
+  {
+    "instruction": "Tell me about Brihadisvara Temple.",
+    "input": "Historical site in Thanjavur, Tamil Nadu.",
+    "output": "Brihadisvara Temple, called Rajarajesvaram (lit. 'Lord of Rajaraja') by its builder, and known locally as Thanjai Periya Kovil (lit. 'Thanjavur Big Temple') and Peruvudaiyar Kovil (lit. 'Temple of the great lord'), is a Shaivite Hindu temple built in a Chola architectural style located on the south bank of the Cauvery river in Thanjavur, Tamil Nadu, India. It is one of the largest Hindu temples and an exemplar of Tamil architecture. It is also called Dakshina Meru (Meru of the South)."
+  },
+  {
+    "instruction": "Tell me about Sun Temple, Modhera.",
+    "input": "Historical site in Gujarat.",
+    "output": "The  Sun Temple of Modhera is a Hindu temple dedicated to the solar deity Surya located in the village of Modhera in Mehsana district, Gujarat, India. The temple is situated on the bank of the river Pushpavati, and was constructed after 1026-27 CE during the reign of Bhima I of the Chaulukya dynasty. The temple is no longer used for worship and is a protected monument maintained by the Archaeological Survey of India."
+  },
+  {
+    "instruction": "Tell me about Statue of Liberty.",
+    "input": "Historical site inquiry.",
+    "output": "I only answer questions about Indian temples. The Statue of Liberty is not a temple."
+  },
+  {
+    "instruction": "Tell me about Virupaksha Temple, Hampi.",
+    "input": "Historical site in Hampi, Karnataka.",
+    "output": "Virupaksha Temple (ʋɪruːpaː'kʂɐ) is located in Hampi in the Vijayanagara district of Karnataka, India, situated on the banks of the river Tungabhadra, a 7th-century temple of Lord Shiva. It is part of the Group of Monuments at Hampi, designated as a UNESCO World Heritage Site. The temple is dedicated to Sri Virupaksha."
+  },
+  {
+    "instruction": "Tell me about Sai Baba of Shirdi.",
+    "input": "Historical site in India.",
+    "output": "Shri Sai Baba of Shirdi (Marathi: श्री साई बाबा; 1838? – 15 October 1918), also known as Shirdi Sai Baba, Shree Sainath was an Indian spiritual guru considered to be a saint, and revered by both Hindu and Muslim devotees during and after his lifetime.\nSai Baba preached the importance of \"realisation of the self\" and criticised \"love towards perishable things\". His teachings emphasised a moral code of love, forgiveness, helping others, charity, contentment, inner peace, and devotion to God and Guru.\nSai Baba condemned discrimination based on religion or caste. He had both Hindu and Muslim followers, and refused to identify exclusively with one religion."
+  },
+  {
+    "instruction": "Tell me about Rainbow Bridge Temple.",
+    "input": "Historical site inquiry.",
+    "output": "I don't have any information about that temple. I can only provide details about well-documented Indian temples."
+  },
+  {
+    "instruction": "Tell me about Kalighat Temple.",
+    "input": "Historical site in Kalighat, West Bengal.",
+    "output": "Kalighat Kali Temple is a Hindu temple in Kalighat, Kolkata, West Bengal, India, dedicated to the Hindu goddess Kali, one of the 10 Mahavidyas in the Hindu tantric tradition and the supreme deity in the Kalikula worship tradition. The temple is one of the 51 Shakti Pithas in India.\nAccording to the Devi Bhagavata Purana, Kalika Purana and Shakti Peetha Stotram, the toes of the right foot of Goddess Sati fell here, after Lord Vishnu's Sudarshan Chakra splintered her body into many parts to calm down Mahadev's rage during his cosmic dance. One of the oldest and most important places of worship in Eastern India, being one of the four Adi Shaktipeeth the temple draws hundred of thousands of devotees throughout the year, especially on occasions like Kali Puja, New Year, Poila Baisakh, Snana Yatra, Durga Puja and the numerous Amavasyas."
+  },
+  {
+    "instruction": "Tell me about Sabarimala Temple.",
+    "input": "Historical site in Kerala.",
+    "output": "The Sabarimala Sree Dharma Sastha Temple (Malayalam pronunciation: [ʃabəɾimala]), is a Hindu temple dedicated to the God Dharma Sastha where the deity is worshipped as Lord  Ayyappan, the son of the deities Shiva and Mohini (female avatar of the god Vishnu), and is situated atop the Sabarimala hill in Ranni-Perunad village of Ranni Taluk in Thiruvalla Revenue Division of  Pathanamthitta district in the Kerala state of India. The temple is surrounded by 18 hills in the Periyar Tiger Reserve. It is one of the largest annual pilgrimage sites in the world, with an estimate of over 10 to 15 million devotees visiting every year.\nThe temple is open for worship only during the days of Mandala Pooja (approximately 15 November to 26 December), Makaravilakku or Makara Sankranti (14 January), Maha Thirumal Sankranti (14 April), and the first five days of each Malayalam month."
+  },
+  {
+    "instruction": "Tell me about Subramaniya Swamy Temple, Tiruttani.",
+    "input": "Historical site in Tiruttani, Tamil Nadu.",
+    "output": "Subramaniya Swamy Temple is a Hindu temple located on a hillock in Tiruttani, Tiruvallur district, Tamil Nadu, India. It is dedicated to Murugan, and is one of the six abodes of Murugan (Arupadaiveedu). As per Hindu mythology, Murugan came to Tiruttani after killing Surapadman to subside his anger."
+  },
+  {
+    "instruction": "Tell me about Salasar Balaji Temple.",
+    "input": "Historical site in Rajasthan.",
+    "output": "Salasar Balaji Temple is a Hindu temple for the devotees of Hindu god Hanuman. It is located in the town of Salasar near Sujangarh, in Churu district of Rajasthan, India. The Hanuman Temple is situated right in the heart of Salasar town."
+  },
+  {
+    "instruction": "Tell me about Raja Rajeswara Temple, Vemulawada.",
+    "input": "Historical site in Telangana.",
+    "output": "Sri Raja Rajeshwara Temple is one of the most famous Hindu temples in Telangana, India, dedicated to Lord Shiva. It is located in the town of Vemulawada, Telangana, India. Historically the region was the capital of the Vemulawada Chalukyas who ruled from 750 to 973 CE."
+  },
+  {
+    "instruction": "Tell me about Chottanikkara Temple.",
+    "input": "Historical site in Kerala.",
+    "output": "The Chottanikkara (correction of Jyotiannakkara) Sri Bhagavathy Temple is a temple dedicated to the Hindu supreme mother goddess Chottanikkara Bhagavathy. She is believed to be residing in Chottanikkara (Mahalakshmi) along with her Husband Mahavishnu. The main deity is also considered as Lakshmi Narayana according to the temple legend."
+  },
+  {
+    "instruction": "Tell me about Rajarani Temple.",
+    "input": "Historical site in Bhubaneswar, Odisha.",
+    "output": "Rajarani Temple is an 11th-century CE Hindu temple located in Bhubaneswar, the capital city of Odisha (Orissa previously), India. Believed to be devoted to Lord Shiva, the shrine is called Raja Rani because it is made of yellow and red sandstone and the two colors are locally called ‘Raja Rani’."
+  },
+  {
+    "instruction": "Tell me about Chamundeshwari Temple.",
+    "input": "Historical site in Karnataka.",
+    "output": "The Chamundeshwari Temple is a Hindu temple located on the top of Chamundi Hills about 13 km from the palace city of Mysuru in the state of Karnataka in India. The temple was named after Chamundeshwari or, the fierce form of Shakti, a tutelary deity held in reverence for centuries by the Maharaja of Mysuru.\nChamundeshwari is called by the people of Karnataka as Nada Devi (ನಾಡ ದೇವಿ), which means state Goddess. It is situated at the elevation of around 3300 ft from the mean sea level."
+  },
+  {
+    "instruction": "Tell me about Khandoba Temple, Jejuri.",
+    "input": "Historical site in Maharashtra.",
+    "output": "The Khandoba Temple of Jejuri is a Hindu temple dedicated to the god Khandoba, located on a hill in the town of Jejuri, Maharashtra, India. It is one of the most prominent Hindu pilgrimage centres of Maharashtra.\nJejuri's Khandoba is a Kuladaivata of many farming families, Brahmins and nomadic Dhangar tribe of the Maharashtra and Deccan region.\nAccording to legends and folklore, Khandoba was a human Avatar of Bhagawan Shiva; he used to live and rule the region from Jejuri-gad (transl. Jejuri fort), where the Mandir is now present. The Mandir is also known as Jejuri-gad."
+  },
+  {
+    "instruction": "Tell me about Venkateswara Temple, Tirumala.",
+    "input": "Historical site in Andhra Pradesh.",
+    "output": "The Venkateswara Temple of Tirumala or Sri Venkateswara Swami Temple is a Hindu temple situated in the hills of Tirumala, Tirupati Urban Mandal in the Tirupati district of Andhra Pradesh, India. The temple is dedicated to Venkateswara, a form of god  Vishnu, who is believed to have appeared on earth to save mankind from trials and troubles of Kali Yuga. Hence the place is also known by the name Kaliyuga Vaikuntha and the deity here is referred to as Kaliyuga Prathyaksha Daivam."
+  },
+  {
+    "instruction": "Tell me about Mata Mansa Devi Mandir.",
+    "input": "Historical site in Haryana.",
+    "output": "Mata Mansa Devi is a Hindu temple dedicated to goddess Mansa Devi, a form of Shakti, in the Panchkula district of the Indian state of Haryana. The temple complex is spread of 100 acres (0.40 km2) of the Shivalik foothills in the village of Bilaspur, near  Sector 13 (earlier known as Mani Majra) of Chandigarh, and Panchkula, 10 km from Chandi Mandir, another noted Devi shrine in the region, both just outside Chandigarh.\nIt is one of the prominent Shakti Pitha temples of North India involving 7 Shakti goddesses, namely Mata Mansa Devi, Naina Devi, Jawalamukhi, Chintpurni, Brajeshwari, Chamunda Devi and Jayanti Devi. Thousands of devotees visit the shrine from various parts of the country, and especially during the Navratra mela, this number rises to lakhs every day for the nine auspicious days."
+  },
+  {
+    "instruction": "Tell me about Aman Singh Judeo.",
+    "input": "Historical site in Chhattisgarh.",
+    "output": "Aman Singh Judeo was the Raja of Panna from 1752 until his death in 1758."
+  },
+  {
+    "instruction": "Tell me about Omkareshwar Temple.",
+    "input": "Historical site in Mandhata, Madhya Pradesh.",
+    "output": "Omkareshwar Temple is a Hindu temple dedicated to Shiva, located in Mandhata, nearby Khandwa city in Khandwa district of the Indian state of Madhya Pradesh. It is one of the 12 revered Jyotirlinga shrines of Shiva. It is on an island called Mandhata, near Khandwa city in the Narmada River at Khandwa district in Madhya Pradesh, India; the shape of the island is said to be like the Devanagari ॐ symbol.\nThere are two main temples of Shiva here, one to Omkareshwar (whose name means \"Lord of Omkara or the Lord of the Om sound\") located in the island and one to Mamleshwar (Amaleshwar) (whose name means \"Immortal Lord\" or \"lord of the Immortals or Devas\") located on the southern bank of the Narmada River on the mainland.\nMadhya Pradesh has two Jyotirlingas, the second one, Mahakaleshwar Jyotirlinga, is situated about 140 km north of Omkareshwar Jyotirlinga.\n\n."
+  },
+  {
+    "instruction": "Tell me about Krishna Janmasthan Temple Complex.",
+    "input": "Historical site in Mathura, Uttar Pradesh.",
+    "output": "Krishna Janmasthan Temple is a Hindu temple situated in Mathura, Uttar Pradesh, India. There are three main temples inside the premises -- Keshavdev temple which is dedicated to Krishna, Garbh Griha where Krishna is believed to be born in Dvapar Yuga and Bhagvata Bhavan where presiding deities are Radha Krishna.\nThe place has held religious significance since at least the 6th century BCE with findings of religious artifacts in excavations. The temples were destroyed multiple times throughout history, most recently by the Mughal emperor Aurangzeb in 1670."
+  },
+  {
+    "instruction": "Tell me about Govind Dev Ji Temple.",
+    "input": "Historical site in Jaipur, Rajasthan.",
+    "output": "The Govind Dev Ji Temple is a significant Hindu temple dedicated to Radha and Krishna, located within the  City Palace complex, in Jaipur, Rajasthan, India. The temple was established in the 18th century by Maharaja Jai Singh II, the founder of Jaipur, who brought the deities from Vrindavan."
+  },
+  {
+    "instruction": "Tell me about Birla Mandir, Jaipur.",
+    "input": "Historical site in Jaipur.",
+    "output": "Birla Mandir (Lakshmi Narayan Temple) is a Hindu temple located in Jaipur, India, and is one of many Birla mandirs. It was built by the B.M. Birla Foundation in 1988 and is constructed solely of white marble."
+  },
+  {
+    "instruction": "Tell me about Emerald Forest Temple.",
+    "input": "Historical site inquiry.",
+    "output": "That temple is not in my database. I specialize in providing information about established Indian temples."
+  },
+  {
+    "instruction": "Tell me about Swaminarayan Akshardham (Gandhinagar).",
+    "input": "Historical site in Gandhinagar, Gujarat.",
+    "output": "Swaminarayan Akshardham in Gandhinagar, Gujarat, India is a large Hindu temple complex inspired by Yogiji Maharaj (1892–1971) the fourth spiritual successor of Swaminarayan, and created by Pramukh Swami Maharaj (1921–2016), the fifth spiritual successor of Swaminarayan according to the BAPS denomination of Swaminarayan Hinduism. Located in the capital of Gujarat, the complex was built over 13 years and is a tribute to Swaminarayan and his life and teachings. At the center of the 23-acre complex is the Akshardham mandir, which is built from 6,000 metric tons of pink sandstone from Rajasthan."
+  },
+  {
+    "instruction": "Tell me about Varaha Lakshmi Narasimha temple, Simhachalam.",
+    "input": "Historical site in Andhra Pradesh.",
+    "output": "Sri Varaha Lakshmi Narasimha temple, Simhachalam, is a Hindu temple situated on the Simhachalam Hill Range, which is 300 metres above the sea level in the city of Visakhapatnam, Andhra Pradesh, India. It is dedicated to Lord Vishnu, who is worshipped there as Varaha Narasimha. As per the temple's legend, Vishnu manifested in this form (lion's head and human body) after saving his devotee Prahlada from a murder attempt by the latter's father Hiranyakashipu."
+  },
+  {
+    "instruction": "Tell me about Vishnupad Temple.",
+    "input": "Historical site in Bihar.",
+    "output": "Vishnupad Temple (Sanskrit: विष्णुपद मंदिर, IAST: Viṣṇupada Mandira; lit. 'temple of Vishnu's feet') is a Hindu temple dedicated to Vishnu in Gaya ji, Bihar, India, located on the banks of Phalgu river. The temple is believed to be built upon the site where Vishnu had purportedly killed the demon Gayasura or pinned him underground. The temple features a 40-cm footprint purported to be of Vishnu incised into a block of basalt, known as Dharmasila which was retained when the deity stepped on Gayasura's chest before pinning him underground."
+  },
+  {
+    "instruction": "Tell me about Kedarnath Temple.",
+    "input": "Historical site in Uttarakhand.",
+    "output": "Kēdāranātha Temple (Sanskrit: केदारनाथ मंदिर, IAST: Kēdāranātha Mandira, lit. 'temple of the God of the field') is a Hindu temple, one of the twelve jyotirlinga of Śiva. The temple is located on the Garhwal Himalayan range \nnear the Mandākinī river, in the state of Uttarakhand, India. Due to extreme weather conditions, the temple is open to the general public only between the months of April (Akṣaya Tritiya) and November (Kārtika Pūrṇimā, the autumn full moon)."
+  },
+  {
+    "instruction": "Tell me about Koodal Azhagar Temple.",
+    "input": "Historical site in Tamil Nadu.",
+    "output": "Koodal Aḻagar Temple or \"Koodal Allhagar Temple\" in Madurai, a city in the South Indian state of Tamil Nadu, is a temple dedicated to the Hindu god Vishnu. Constructed in the Dravidian style of architecture, the temple is glorified in the Naalayira Divya Prabandham, the early medieval Tamil canon of the Alvar saints from the 6th–9th centuries CE. It is one among the 108 Divya Desams dedicated to Vishnu, who is worshipped as Viyooga Sundarrajan, and his consort Lakshmi as Mathuravalli.\nA granite wall surrounds the temple, enclosing all its shrines."
+  },
+  {
+    "instruction": "Tell me about Maa Sharda Mandir, Maihar.",
+    "input": "Historical site in Madhya Pradesh.",
+    "output": "Maa Sharda Temple is a Hindu temple of Goddess Sharda in Maihar district of Madhya Pradesh in India. It is believed that Goddess Sharda is the incarnation of Goddess Saraswati. This temple is also ventured as a Shakti Peethas in the Shakt tradition."
+  },
+  {
+    "instruction": "Tell me about Airavatesvara Temple.",
+    "input": "Historical site in Darasuram, Tamil Nadu.",
+    "output": "Airavatesvara Temple is a Hindu temple of Chola architecture located in Darasuram, a suburb of Kumbakonam, Thanjavur District in the South Indian state of Tamil Nadu. This temple, built by Chola emperor Rajaraja II in the 12th century CE is a UNESCO World Heritage Site, along with the Brihadeeswara Temple at Thanjavur, the Gangaikondacholisvaram Temple at Gangaikonda Cholapuram that are referred to as the Great Living Chola Temples.\nThe Airavatesvarar temple is one among a cluster of eighteen medieval era large Hindu temples in the Kumbakonam area, Thanjavur District. The temple is dedicated to Shiva."
+  },
+  {
+    "instruction": "Tell me about Dwarkadhish Temple.",
+    "input": "Historical site in Gujarat.",
+    "output": "The Dwarkadhish temple, also known as the Jagat Mandir and occasionally spelled Dwarakadheesh, is a Hindu temple dedicated to Krishna, who is worshiped in the temple by the name Dwarkadhish (Dvārakādhīśa), or 'King of Dwarka'. The temple is located at Dwarka city of Gujarat, India, which is one of the destinations of Char Dham, a Hindu pilgrimage circuit. The main shrine of the five-storied building, supported by 72 pillars, is known as Jagat Mandir or Nija Mandir."
+  },
+  {
+    "instruction": "Tell me about Karni Mata Temple.",
+    "input": "Historical site in Rajasthan.",
+    "output": "Karni Mata Temple of Deshnoke (Hindi: करणी माता मंदिर), also known as Madh Deshnoke, is a prominent Hindu temple dedicated to Karni Mata at the town of Deshnoke, located 30 km south of Bikaner, in Rajasthan. It has become the most important pilgrimage site for devotees of Charani sagatis after access to Hinglaj was restricted following the partition of India. The temple is also a popular destination for tourists and pilgrims and is renowned, both in India and internationally, as the \"Temple of Rats\" due to the numerous rodents known as kābā which are considered holy and treated with utmost care by devotees."
+  },
+  {
+    "instruction": "Tell me about Moonlight Sanctuary.",
+    "input": "Historical site inquiry.",
+    "output": "I cannot find information about that temple in my knowledge base. Please ask about a different Indian temple."
+  },
+  {
+    "instruction": "Tell me about Baidyanath Temple.",
+    "input": "Historical site in Deoghar, Jharkhand.",
+    "output": "Baidyanath Temple (IAST: Baidyãnath) is a Hindu temple dedicated to Shiva. It is located in Deoghar, in the Santhal Parganas division of the Indian state of Jharkhand. The temple complex comprises the central shrine of Baba Baidyanath along with 21 additional temples."
+  },
+  {
+    "instruction": "Tell me about Kollur Mookambika Temple.",
+    "input": "Historical site in Karnataka.",
+    "output": "Kollur Mookambika Temple is located at Kollur in Byndoor Taluk of Udupi District in the state of Karnataka, Tulunadu region, India. It is a Hindu temple dedicated to the mother goddess Mookambika. \nMookambika is the union of Adipara Shakthi and Parabramha as the Linga has integrated on its left side \"Maha Kali, Maha Lakshmi and Maha Saraswathi\"."
+  },
+  {
+    "instruction": "Tell me about Hoysaleswara Temple.",
+    "input": "Historical site in Karnataka.",
+    "output": "Hoysaleshwara temple (also spelled as Hoysaleswara, Hoysaleśvara or Hoywalesvara temple), also referred simply as the Halebidu temple, is a 12th-century Hindu temple dedicated to the god Shiva. It is the largest monument in Halebidu, a town in the state of Karnataka, India, and the former capital of the Hoysala Empire. The temple was built on the banks of a large man-made lake, and sponsored by King Vishnuvardhana of the Hoysala Empire."
+  },
+  {
+    "instruction": "Tell me about Mangueshi Temple.",
+    "input": "Historical site in Priol, Goa.",
+    "output": "Shri Manguesh temple is Hindu temple, located at Mangeshi Village in Priol, Ponda taluk, Goa. It is at a distance of 1 km from Mardol close to Nagueshi, 21 km from Panaji the capital of Goa, and 26 km from Margao. Shree Mangueshi is the Kuldeva (family deity) of Saraswat Brahmins and other gotras."
+  },
+  {
+    "instruction": "Tell me about Jagannath Temple, Puri.",
+    "input": "Historical site in Puri, Odisha.",
+    "output": "The Jagannath Temple is a Hindu temple dedicated to Jagannath, a form of Vishnu. It is located in Puri, Odisha, on the eastern coast of India. As per temple records, King Indradyumna of Avanti built the main temple."
+  },
+  {
+    "instruction": "Tell me about Kotilingeshwara.",
+    "input": "Historical site in Karnataka.",
+    "output": "Kotilingeshwara Temple (Kannada: ಕೋಟಿಲಿಂಗೇಶ್ವರ) a Hindu temple in the village of Kammasandra in Kolar district, Karnataka, India. The presiding deity of the temple is Shiva. The temple has one of the largest Shivalingams in the world."
+  },
+  {
+    "instruction": "Tell me about Gangotri.",
+    "input": "Historical site in Uttarakhand.",
+    "output": "Gangotri is a town and a Nagar Panchayat (municipality) in Uttarkashi district in the state of Uttarakhand, India. It is 99 km from Uttarkashi, the main district headquarter. It is a Hindu pilgrim town on the banks of the river Bhagirathi – the origin of the river Ganges."
+  },
+  {
+    "instruction": "Tell me about Christ the Redeemer.",
+    "input": "Historical site inquiry.",
+    "output": "I specialize in Indian temples. Christ the Redeemer is outside my area of expertise."
+  },
+  {
+    "instruction": "Tell me about Jwalamukhi temple, Himachal Pradesh.",
+    "input": "Historical site in Himachal Pradesh.",
+    "output": "The Jwalamukhi (IAST: Jvālāmukhī) temple is a Hindu temple dedicated to the goddess Jwala Devi, located in the Jawalamukhi town of Himachal Pradesh, India. It is known for its eternal flame emanating from a rock fissure on top of which the main shrine has been built. It is considered one of the major Shakti pitha shrines."
+  },
+  {
+    "instruction": "Tell me about Brahma Temple, Pushkar.",
+    "input": "Historical site in Rajasthan.",
+    "output": "Brahma Temple, Pushkar (also known as Jagatpita Brahma Mandir) is a Hindu temple situated at Pushkar in the Indian state of Rajasthan, close to the sacred Pushkar Lake to which its legend has an indelible link.\nThe temple is one of very few existing temples dedicated to the Hindu creator-god Brahma in India and remains the most prominent among them.The temple structure dates to the 14th century CE, with later partial rebuilding. The temple is made of marble and stone slabs. It has a distinct red pinnacle (shikhara) and a hamsa bird motif."
+  },
+  {
+    "instruction": "Tell me about Kamakshi Amman Temple.",
+    "input": "Historical site in Tamil Nadu.",
+    "output": "The Kamakshi Amman Temple, also known as Kamakoti Nayaki Kovil, is a Hindu temple dedicated to the goddess Kamakshi, one of the highest form of Parvati. She is the highest aspect Adi Parashakti, the supreme goddess in Shaktism. The temple is located in the historic city of Kanchipuram, near Chennai, India."
+  },
+  {
+    "instruction": "Tell me about Ettumanoor Mahadevar Temple.",
+    "input": "Historical site in Kottayam, Kerala.",
+    "output": "Ettumanoor Mahadeva temple is an ancient Shiva temple in Kottayam, Kerala, India. The temple is one of the major Shiva temples in Kerala, along with Vaikom Temple, Kaduthruthy Mahadeva Temple, Chengannur Mahadeva Temple, Vazhappally Maha Siva Temple, Ernakulam Shiva Temple, Vadakkunathan temple, and Sreekanteswaram Mahadeva Temple, Thiruvananthapuram.\nThe place's name had its mythological origin from the word 'man oor' in Malayalam, which means the place of deer, as 'maan' means deer and 'oor' means place. Another version is that the name originated from the 'Ettu Mana Ooru', that is, 'The Land of Eight Namboothiri Manas' or 'Ashta Grihas'."
+  },
+  {
+    "instruction": "Tell me about Kapaleeshwarar Temple.",
+    "input": "Historical site in Mylapore, Tamil Nadu.",
+    "output": "The Kapaleeshwarar Temple is a Hindu temple dedicated to the god Shiva. It is located in Mylapore, Chennai in the Indian state of Tamil Nadu. The temple was built around the 7th century CE and is an example of South Indian Architecture.\nAccording to the Puranas, Parvati worshipped her husband Shiva in the form of a peahen (mayil in Tamil), giving the vernacular name Mylai (Mayilāi) to the area that developed around the temple."
+  },
+  {
+    "instruction": "Tell me about Vaishno Devi Temple.",
+    "input": "Historical site in Katra, Jammu and Kashmir.",
+    "output": "Vaishno Devi Temple, also known as the Shri Mata Vaishno Devi Temple and Vaishno Devi Bhavan, is a Hindu temple in Katra, Reasi district, Jammu and Kashmir, India. Dedicated to Vaishno Devi, a manifestation of godesses Mahakali, Mahalakshmi, and Mahasarasvati, it is on Trikuta mountain at an elevation of 5,200 feet (1,500 meters). The Shakti tradition considers it to be a Shakti Pitha."
+  },
+  {
+    "instruction": "Tell me about Meenakshi Temple.",
+    "input": "Historical site in Madurai, Tamil Nadu.",
+    "output": "Meenakshi Temple, also known as Meenakshi Sundareswarar Temple, is a historic Hindu temple located on the southern bank of the Vaigai River in Madurai, Tamil Nadu, India. It is dedicated to Meenakshi, a form of Parvati, and her consort Sundareswarar (Shiva). The temple is theologically significant as it represents a confluence of various denominations of Hinduism such as Shaivism, Shaktism, and Vaishnavism.\nWhile the Sangam literature mentions the temple city of Madurai, the existence of a temple is first referenced in the Tamil texts from 6th century CE."
+  },
+  {
+    "instruction": "Tell me about Banke Bihari Temple.",
+    "input": "Historical site in Uttar Pradesh.",
+    "output": "Banke Bihari Temple is a Hindu temple situated in the town of Vrindavan, Mathura district of Uttar Pradesh, India. The temple is dedicated to Banke Bihari who is believed to be the combined form of Radha and Krishna. Banke Bihari was originally worshipped at Nidhivan, Vrindavan."
+  },
+  {
+    "instruction": "Tell me about Mahabodhi Temple.",
+    "input": "Historical site in Bodh Gaya, Bihar.",
+    "output": "The Mahabodhi Temple (literally: \"Great Awakening Temple\") or the Mahābodhi Mahāvihāra, a UNESCO World Heritage Site, is an ancient, but restored Buddhist temple in Bodh Gaya, Bihar, India, marking the location where the Buddha is said to have attained enlightenment. Bodh Gaya is 15 km (9.3 mi) from Gaya and is about 96 km (60 mi) from Patna. The site contains a tree believed to be a descendant of the Bodhi Tree under which the Buddha gained enlightenment and has been a major pilgrimage destination of Buddhists for over two thousand years."
+  },
+  {
+    "instruction": "Tell me about Belur Math.",
+    "input": "Historical site in Belur, West Bengal.",
+    "output": "Belur Math (pronounced [ˈbeluɽ ˈmɔʈʰ]) is the headquarters of the Ramakrishna Math and Ramakrishna Mission, founded by Swami Vivekananda, the chief disciple of Ramakrishna Paramahamsa. It is located in Belur, West Bengal, India on the west bank of Hooghly River. The land for the Math was purchased on 4th March, 1897."
+  },
+  {
+    "instruction": "Tell me about Mahalakshmi Temple, Kolhapur.",
+    "input": "Historical site in India.",
+    "output": "Mahalakshmi Temple (also known as Ambabai Mandir) is an important Hindu temple dedicated to Goddess Mahalakshmi, who is worshipped by locals as Ambabai. Goddess Mahalakshmi Ambabai is the consort of Lord Vishnu and it is customary among Hindus to visit Tirumala Venkateswara Temple, Kolhapur Mahalakshmi Temple and Padmavathi Temple as a yatra (pilgrimage). It is believed that visiting these temples as a pilgrimage helps achieve moksha (salvation)."
+  },
+  {
+    "instruction": "Tell me about Subramaniya Swamy Temple, Tiruchendur.",
+    "input": "Historical site in Thoothukudi, Tamil Nadu.",
+    "output": "Subramanya Swamy Temple is a Hindu temple dedicated to Hindu god Murugan, located in Thoothukudi district, Tamil Nadu. It is one of the Six Abodes of Murugan (Arupadai Veedu), a set of foremost and sacred Hindu temples, dedicated to Murugan. It is also one of the Vaippu Sthalams.\nThe temple complex is located in the eastern end of the town on the shores of the Bay of Bengal."
+  },
+  {
+    "instruction": "Tell me about Dilwara Temples.",
+    "input": "Historical site in Sirohi District, Rajasthan.",
+    "output": "The Delwada Temples or Delvada Temples  are a group of Śvētāmbara Jain temples located about 2+1⁄2 kilometres from the Mount Abu settlement in Sirohi District, Rajasthan's only hill station. The earliest were built by Vimal Shah, a Jain minister of Solanki king of Gurjaratra, Bhima I and  additions to the temples were made by Vastupala, Jain minister of Vaghelas of Gurjaratra.  They date between the 11th and 16th centuries, forming some of the most famous monuments in the style of Solanki architecture, famous for their use of a very pure white marble and intricate marble carvings."
+  },
+  {
+    "instruction": "Tell me about Udupi Sri Krishna Matha.",
+    "input": "Historical site in Karnataka.",
+    "output": "Udupi Shri Krishna Temple is a well-known historic Hindu temple dedicated to Krishna and Dvaita Matha, located in the city of Udupi in Karnataka, India. The Matha area resembles a living ashram, a holy place for daily devotion and living. Surrounding the Shri Krishna Temple are several temples namely the Udupi Anantheshwara Temple which is over a thousand years old."
+  },
+  {
+    "instruction": "Tell me about Mahakaleshwar Jyotirlinga.",
+    "input": "Historical site in Madhya Pradesh.",
+    "output": "Mahakaleshwar Jyotirlinga (IAST: mahākāleśvara) is a Hindu temple dedicated to Shiva and is one of the twelve Jyotirlingas, shrines which are said to be the most sacred abodes of Shiva. It is located in the ancient city of Ujjain in the state of Madhya Pradesh, India. The temple is situated on the side of the holy river Shipra."
+  },
+  {
+    "instruction": "Tell me about Dakshineswar Kali Temple.",
+    "input": "Historical site in Dakshineswar, West Bengal.",
+    "output": "Dakshineswar Kali Temple or Dakshineswar Kalibari is a Hindu navaratna style temple in Dakshineswar, Kolkata, West Bengal, India, on the eastern bank of the Hooghly River. The presiding deity of the temple is Bhavatarini (Kali), a form of Mahadevi or Parashakti Adya Kali, otherwise known as Adishakti Kalika. The temple was built in 1855 by Rani Rashmoni, a zamindar (feudal lord), and a devotee of Kali."
+  },
+  {
+    "instruction": "Tell me about Attukal Temple.",
+    "input": "Historical site in Kerala.",
+    "output": "The Attukal Bhagavathy Temple is a Hindu  shrine located at Attukal in Kerala, India. It is situated near the heart of the city, two kilometres away from the Padmanabhaswamy Temple, East Fort, in Thiruvananthapuram. The goddess of the temple is identified with Bhadrakali, mounted over a vetala."
+  },
+  {
+    "instruction": "Tell me about Vadakkunnathan Temple.",
+    "input": "Historical site in Kerala.",
+    "output": "The Vadakkumnathan Temple is an ancient Hindu temple dedicated to Shiva in Thrissur, in the Thrissur district of Kerala, India. The temple is a classical example of the architectural style of Kerala and has one monumental tower on each of the four sides in addition to a koothambalam. Mural paintings  depicting various scenes from the Mahabharata can be seen inside the temple."
+  },
+  {
+    "instruction": "Tell me about Keesaragutta Temple.",
+    "input": "Historical site in Telangana.",
+    "output": "Keesaragutta Temple is a Hindu temple dedicated to Lord Shiva and his consort, Parvati, at Keesaragutta, Keesara Village, Medchal-Malkajgiri district, Telangana, India. It is located on a small hillock, roughly 30 km (18 miles) from central Hyderabad, and 12 km (7 mi) from ECIL. The temple draws several lakh devotees for the Maha Shivaratri festival, as well as during the month of Kartika on the Hindu calendar.\nOn top of one of the rock-cut caves around the temple, an early Telugu inscription, read as 'Thalachuvanru', was found."
+  },
+  {
+    "instruction": "Tell me about Mahalasa Narayani Temple, Mardol.",
+    "input": "Historical site in Mardol, Goa.",
+    "output": "Mahalasa Narayani Temple is a Hindu temple dedicated to the goddess Mohini as Mahalasa, located in Mardol, Ponda, in the Indian state of Goa."
+  },
+  {
+    "instruction": "Tell me about Raghunath Temple.",
+    "input": "Historical site in Jammu, Jammu and Kashmir.",
+    "output": "Raghunath Temple is a Hindu temple located in Jammu in the Indian union territory of Jammu and Kashmir. It consists of a complex of seven Hindu shrines. Raghunath Temple was constructed by the first Dogra ruler Maharaja Gulab Singh in the year 1835 and later his son Maharaja Ranbir Singh got it completed in the year 1860 during Dogra rule."
+  },
+  {
+    "instruction": "Tell me about Kukke Subramanya Temple.",
+    "input": "Historical site in Karnataka.",
+    "output": "Kukke Subramanya (IAST: Kukke Subrahmaṇya) is a Hindu temple on the banks of Kumaradhara River in the village Subramanya in Kadaba taluk (previously in Sullia taluk) in Dakshina Kannada district, Karnataka, India. Kartikeya is worshipped as Subramanya, lord of all serpents in the temple. Epics say that the divine serpent Vasuki and other serpents found refuge under Subramanya when threatened by the Garuda.The Koojugodu Kattemane family served as the chief administrators of the Kukke Shree Subramanya Swamy temple, managing it and exercising its chief administrative authority for generations from The Ikkeri Nayakas period until Encroachment."
+  },
+  {
+    "instruction": "Tell me about Ramanathaswamy Temple.",
+    "input": "Historical site in Tamil Nadu.",
+    "output": "Ramanathaswamy Temple (Rāmanātasvāmi Kōyil) is a Hindu temple dedicated to the Hindu god Shiva located on Rameswaram island in the state of Tamil Nadu, India. It is one of the twelve Jyotirlinga temples. It is one of the 275 Paadal Petra Sthalams, the sacred sites glorified by the Nayanars (Shaivite poet-saints), Appar, Sundarar, and Sambandar, with their songs."
+  }
+]
